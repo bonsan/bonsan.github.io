@@ -144,7 +144,7 @@ section h2
 
 #skills
 {
-    background-color: #f8e469;
+    background-color: #f8ae69;
 }
 #skills .container
 {
@@ -337,5 +337,6 @@ footer
 {
     padding: 10px 0;
     text-align: center;
-    background-color: #f8e469;
+    color: #fff;
+    background-color: #f8ae69;
 }
